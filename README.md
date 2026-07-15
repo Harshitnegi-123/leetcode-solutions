@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
