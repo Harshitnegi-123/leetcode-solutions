@@ -7,9 +7,6 @@ class Solution {
         for(int i = 0 ; i < s.length(); i++){
             if(set.containsKey(s.charAt(i))){
                 set.put(s.charAt(i) , set.get(s.charAt(i))+1);
-                if(set.get(s.charAt(i))<0){
-                    return false;
-                }
             }
             else{
                 set.put(s.charAt(i) , 1);
@@ -18,6 +15,9 @@ class Solution {
         for(int j = 0; j<t.length(); j++){
             if(set.containsKey(t.charAt(j))){
                 set.put(t.charAt(j) , set.get(t.charAt(j))-1);
+                if(set.get(t.charAt(j))<0){
+                    return false;
+                }
             }
             else{
                 return false;
