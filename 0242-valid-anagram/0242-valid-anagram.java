@@ -5,23 +5,23 @@ class Solution {
             return false ;
         }
         for(int i = 0 ; i < s.length(); i++){
-            if(set.containsKey(s.charAt(i))){
-                set.put(s.charAt(i) , set.get(s.charAt(i))+1);
+            char ch = s.charAt(i);
+            if(set.containsKey(ch)){
+                set.put(ch , set.get(ch)+1);
             }
             else{
-                set.put(s.charAt(i) , 1);
+                set.put(ch , 1);
             }
         }
         for(int j = 0; j<t.length(); j++){
-            if(set.containsKey(t.charAt(j))){
-                set.put(t.charAt(j) , set.get(t.charAt(j))-1);
-                if(set.get(t.charAt(j))<0){
+            char ch =  t.charAt(j);
+            if(!set.containsKey(ch)){
+                return false ;
+            }
+            set.put(ch , set.get(ch)-1);
+                if(set.get(ch)<0){
                     return false;
                 }
-            }
-            else{
-                return false;
-            }
         }
         for(int freq : set.values()){
             if(freq!=0){
