@@ -3,7 +3,7 @@ class Solution {
         int left = 0 ;
         int count = 0 ;
         int product = 1 ;
-        if(k <= 1 || k <= 0){
+        if(k <= 1){
             return 0;
         }
         for(int right = 0 ; right < nums.length ; right++){
