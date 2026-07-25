@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Harshitnegi-123/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Matrix
 |  |
